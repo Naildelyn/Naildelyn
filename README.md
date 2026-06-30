@@ -18,7 +18,7 @@
 
 Estudiante de 5.º semestre de la Licenciatura en Informática en la **UNAM (Facultad de Contaduría y Administración)**. Me apasiona el desarrollo de software, la lógica algorítmica y el diseño eficiente de bases de datos. Cuento con experiencia práctica participando en el ciclo de vida de desarrollo de software utilizando metodologías ágiles y control de versiones.
 
-- 📚 Enfocado en **C, C++, SQL, Estructuras de Datos Avanzadas, Programación Orientada a Objetos y Sistemas Distribuidos**.
+- 📚 Enfocada en **C, C++, SQL, Estructuras de Datos Avanzadas, Programación Orientada a Objetos y Sistemas Distribuidos**.
 - 💡 Me interesa resolver problemas lógicos aplicando patrones de diseño, arquitectura limpia y código optimizado.
 - 🛠️ Construyendo mi portafolio web técnico y personal en [navi-dev.io](https://github.com/Naildelyn/navi-dev.io).
 
@@ -42,6 +42,7 @@ Estudiante de 5.º semestre de la Licenciatura en Informática en la **UNAM (Fac
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
   <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
