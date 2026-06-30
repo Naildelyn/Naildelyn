@@ -16,9 +16,9 @@
 
 ## 🚀 Sobre Mí
 
-Estudiante de 5.º semestre de la Licenciatura en Informática en la **UNAM (Facultad de Contaduría y Administración)**. Me apasiona el desarrollo de software backend, la lógica algorítmica y el diseño eficiente de bases de datos relacionales. Cuenta con experiencia práctica formal participando en el ciclo de vida de desarrollo de software utilizando metodologías ágiles y control de versiones.
+Estudiante de 5.º semestre de la Licenciatura en Informática en la **UNAM (Facultad de Contaduría y Administración)**. Me apasiona el desarrollo de software, la lógica algorítmica y el diseño eficiente de bases de datos. Cuento con experiencia práctica participando en el ciclo de vida de desarrollo de software utilizando metodologías ágiles y control de versiones.
 
-- 📚 Actualmente enfocado en **Estructuras de Datos Avanzadas, Programación Orientada a Objetos y Sistemas Distribuidos**.
+- 📚 Enfocado en **C, C++, SQL, Estructuras de Datos Avanzadas, Programación Orientada a Objetos y Sistemas Distribuidos**.
 - 💡 Me interesa resolver problemas lógicos aplicando patrones de diseño, arquitectura limpia y código optimizado.
 - 🛠️ Construyendo mi portafolio web técnico y personal en [navi-dev.io](https://github.com/Naildelyn/navi-dev.io).
 
@@ -29,19 +29,21 @@ Estudiante de 5.º semestre de la Licenciatura en Informática en la **UNAM (Fac
 <p align="left">
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   
   <!-- Bases de Datos -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
   <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Terminal_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Terminal Mac" />
 </p>
 
 ---
