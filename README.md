@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1A365D&height=180&section=header&text=¡Hola!%20Soy%20Naidelyn%20Villaseñor&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Banner Header" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=1A365D&height=180&section=header&text=¡Hola!%20Soy%20Nala%20&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Banner Header" />
 </p>
 
 <p align="center">
